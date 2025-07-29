@@ -8,3 +8,5 @@ Physics, BSc
 Psi
 
 ### Projects
+![PSI ](/asserts/img/eeg.jpeg)
+[Publication](https://www.com)
